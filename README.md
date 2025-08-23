@@ -16,7 +16,6 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 **Languages:** Python, R, SQL, C/C++, Java  
 **Remote Sensing:** Google Earth Engine, ArcGIS, QGIS, ENVI, ERDAS, SNAP, GDAL  
 **IoT Systems:** Raspberry Pi, Arduino (UART, I2C), sensor integration for soil & wetlands  
-**Modeling:** Landlab (SPACE, LinearDiffuser, OverlandFlow), WEPP, WaTEM/SEDEM  
 **Machine/Deep Learning:** scikit-learn, XGBoost, tidymodels, caret, keras, pytorch, SHAP  
 **Visualization:** ggplot2, plotly, shiny, lattice  
 
@@ -24,8 +23,9 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 
 ### 📂 Featured Projects
 - **AweSOMSense** — IoT wetland soil sensor platform for real-time SOC monitoring  
-- **SOC Mapping (2000–2024)** — Multi-decadal Landsat/Sentinel SOC stock prediction across Southeastern USA  
-- **Landlab-Iowa-Watersheds** — Daily rainfall-driven erosion & diffusion simulations in HUC-12 watersheds  
+- **SOC Mapping (2000–2024)** — Multi-decadal SOC stock prediction across Southeastern USA, results published in *Scaling of soil organic carbon in space and time in the Southern Coastal Plain, USA.* : [DOI](https://doi.org/10.1016/j.scitotenv.2024.173060) 
+- **Unsupervised image segmentation of soil pictures** — Exploring feature extration from soil images collected from field for soil organic carbon regression model
+- **Correlation between surface and subsurface SOC in salt marshes** - Code used in paper: *Remote sensing of surface and subsurface SOC in tidal wetlands.* : [DOI](https://doi.org/10.1016/j.scitotenv.2024.173060)  
 
 ---
 
