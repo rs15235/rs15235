@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **Rajneesh Sharma** — Geospatial Data Scientist & PhD Candidate (University of Georgia).  
-I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning** to monitor **soil organic carbon (SOC)** in coastal wetlands and agricultural landscapes. I also design **landscape/erosion models** and scalable **geospatial AI pipelines** for sustainability and climate resilience.
+I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning** to monitor **soil organic carbon (SOC)** in coastal wetlands and agricultural landscapes.
 
 - 🔭 I’m currently working on: IoT-based **AweSOMSense** cyberinfrastructure for real-time wetland SOC monitoring; multi-decadal SOC mapping in GA salt marshes; watershed erosion modeling with Landlab, WEPP & WaTEM/SEDEM  
 - 🌱 I’m currently learning: **computer vision** for hyperspectral and Sentinel-2 seagrass mapping; scalable cloud-based workflows with Google Earth Engine & HyRiver/pydaymet  
