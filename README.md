@@ -3,10 +3,10 @@
 I'm **Rajneesh Sharma** — Geospatial Data Scientist & PhD Candidate (University of Georgia).  
 I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning** to monitor **soil organic carbon (SOC)** in coastal wetlands and agricultural landscapes.
 
-- 🔭 I’m currently working on: IoT-based **AweSOMSense** cyberinfrastructure for real-time wetland SOC monitoring; multi-decadal SOC mapping in GA salt marshes; watershed erosion modeling with Landlab, WEPP & WaTEM/SEDEM  
+- 🔭 I’m currently working on: IoT-based **AweSOMSense** *(A WEtland Soil Organic Matter SENSor)* cyberinfrastructure for real-time wetland SOC monitoring; multi-decadal SOC mapping in GA salt marshes
 - 🌱 I’m currently learning: **computer vision** for hyperspectral and Sentinel-2 seagrass mapping; scalable cloud-based workflows with Google Earth Engine & HyRiver/pydaymet  
 - 👯 I’m looking to collaborate on: **open-source soil sensing**, reproducible **geospatial ML/AI**, and **environmental modeling frameworks**  
-- 💬 Ask me about: remote sensing (Landsat, Sentinel-2, Planet, UAV, ASD), **Landlab** (SPACE, LinearDiffuser, OverlandFlow), soil/erosion models (WEPP, WaTEM/SEDEM), R & Python ML, and IoT sensing systems (Raspberry Pi, Arduino)  
+- 💬 Ask me about: remote sensing (Landsat, Sentinel-2, Planet, UAV, ASD), **Landlab** (SPACE, LinearDiffuser, OverlandFlow), R & Python ML, and IoT sensing systems (Raspberry Pi, Arduino)  
 - 📫 How to reach me: [rajneesh.sharma@uga.edu](mailto:rajneesh.sharma@uga.edu) | [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rajneesh-sharma-040a72190/)) | [Google Scholar](https://scholar.google.com/citations?user=qaMZpLIAAAAJ&hl=en)
 - ⚡ Fun fact: I enjoy hiking in apalachian mountains especially in late fall
 
