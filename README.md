@@ -7,7 +7,7 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 - 🌱 I’m currently learning: **computer vision** for hyperspectral and Sentinel-2 seagrass mapping; scalable cloud-based workflows with Google Earth Engine & HyRiver/pydaymet  
 - 👯 I’m looking to collaborate on: **open-source soil sensing**, reproducible **geospatial ML/AI**, and **environmental modeling frameworks**  
 - 💬 Ask me about: remote sensing (Landsat, Sentinel-2, Planet, UAV, ASD), **Landlab** (SPACE, LinearDiffuser, OverlandFlow), soil/erosion models (WEPP, WaTEM/SEDEM), R & Python ML, and IoT sensing systems (Raspberry Pi, Arduino)  
-- 📫 How to reach me: [rajneesh.sharma@uga.edu](mailto:rajneesh.sharma@uga.edu) | [LinkedIn](https://linkedin.com/in/YOUR-LINK) | [GitHub](https://github.com/rs15235)  
+- 📫 How to reach me: [rajneesh.sharma@uga.edu](mailto:rajneesh.sharma@uga.edu) | [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/rajneesh-sharma-040a72190/)) | [Google Scholar](https://scholar.google.com/citations?user=qaMZpLIAAAAJ&hl=en)
 - ⚡ Fun fact: I enjoy hiking salt marshes 🌿 and turning raw sensor data into artful scientific visualizations.  
 
 ---
