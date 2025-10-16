@@ -24,6 +24,6 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 - Hao, Sharma, et al. (2023). *Toward low-cost IoT systems for soil monitoring in coastal wetlands.* **IEEE CIC 2023**. [DOI](https://doi.org/10.1109/CIC58953.2023.00017)  
 
 <!-- Optional GitHub stats -->
-<!-- ![Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs15235&show_icons=true) -->
+[Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs15235&show_icons=true) -->
 
 
