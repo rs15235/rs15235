@@ -23,7 +23,4 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 - Sharma et al. (2022). *Remote sensing of surface and subsurface SOC in tidal wetlands.* **Remote Sensing, 14(12)**. [DOI](https://doi.org/10.3390/rs14122940)  
 - Hao, Sharma, et al. (2023). *Toward low-cost IoT systems for soil monitoring in coastal wetlands.* **IEEE CIC 2023**. [DOI](https://doi.org/10.1109/CIC58953.2023.00017)  
 
-<!-- Optional GitHub stats -->
-[Rajneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rs15235&show_icons=true) -->
-
 
