@@ -12,8 +12,8 @@ I specialize in **remote sensing, GIS, IoT-based sensing, and machine learning**
 
 
 ### 🧰 Toolbox
-**Languages:** Python, R, SQL, C/C++, Java  
-**Remote Sensing:** Google Earth Engine, ArcGIS, QGIS, ENVI, ERDAS, SNAP, GDAL  
+**Languages:** R, Python, JavaScript  
+**Remote Sensing:** Google Earth Engine, ArcGIS, QGIS, ENVI, ERDAS, SNAP  
 **IoT Systems:** Raspberry Pi, Arduino (UART, I2C), sensor integration for soil & wetlands  
 **Machine/Deep Learning:** scikit-learn, XGBoost, tidymodels, caret, keras, pytorch, SHAP  
 **Visualization:** ggplot2, plotly, shiny, lattice  
